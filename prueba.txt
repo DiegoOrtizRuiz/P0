@@ -1,0 +1,11 @@
+PROG
+var n , x , y;
+PROC putCB (c , b)
+{
+
+   while  ( canWalk ( north ,1) ) do { walk( north ,1) } od
+
+}
+
+
+
